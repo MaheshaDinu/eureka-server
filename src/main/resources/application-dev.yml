@@ -7,5 +7,5 @@ spring:
 
     cloud:
         config:
-            uri: http://config.platform:8888
+            uri: http://localhost:8888
 
